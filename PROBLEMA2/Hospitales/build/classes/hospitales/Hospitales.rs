@@ -1,0 +1,7 @@
+hospitales.Hospitales
+hospitales.EntidadHospitalaria
+hospitales.Hospital
+hospitales.Entidad
+hospitales.Enfermero
+hospitales.Medico
+hospitales.Ciudad
